@@ -80,7 +80,7 @@ if you want to learn more about `x.py`, [read this chapter][bootstrap].
 
 Also, using `x` rather than `x.py` is recommended as:
 
-> `./x` is the most likely to work on every system (on Unix it runs the shell script
+> `./x` most likely works on every system (on Unix it runs the shell script
 > that does python version detection, on Windows it will probably run the
 > powershell script - certainly less likely to break than `./x.py` which often just
 > opens the file in an editor).[^1]
